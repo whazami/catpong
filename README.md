@@ -45,7 +45,7 @@ You can access the website [here](https://cat-pong.com).
   <img src="screenshots/create-channel.png" width="48%" /> 
 </div>
 
-## Documentatiohn
+## Documentation
 
 Note that you can test the endpoints of the API [here](https://api.cat-pong.com) which will directly affect the [deployed](https://cat-pong.com) version. For more information on interacting with the API, please refer to the [endpoint.md](endpoint.md) and [socket.md](socket.md) files.
 
