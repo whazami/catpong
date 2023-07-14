@@ -3,6 +3,7 @@
 ## Overview
 
 This repository represents the implementation of ft_transcendence, a project developed as part of the curriculum at 42 Paris. The aim of this project is to create a web-based version of the game "Pong" that enables users to play against each other and interact in a variety of ways.
+
 The code is not provided as it's the rule of 42Seoul.
 
 You can access the website [here](https://cat-pong.com).
