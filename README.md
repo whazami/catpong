@@ -9,8 +9,8 @@ The code is not provided as it's the rule of 42Seoul.
 You can access the website [here](https://cat-pong.com).
 
 <div align="center">
-  <video src="https://github.com/CatOrganisation/ft_transcendence/assets/44798789/97374f49-9969-45f1-be89-edbb4ba9410c">
-    Your browser does not support videos but you can watch the CatPong's Demo <a href="https://github.com/CatOrganisation/ft_transcendence/assets/44798789/97374f49-9969-45f1-be89-edbb4ba9410c">here</a>.
+  <video src="https://dl.dropboxusercontent.com/scl/fi/hqb4n7u13gp8scrpk2c5r/CatPongDemo.mp4?rlkey=skj7ahit0n518807r1zev9r8o&dl=0">
+    Your browser does not support videos but you can watch the CatPong's Demo <a href="https://dl.dropboxusercontent.com/scl/fi/hqb4n7u13gp8scrpk2c5r/CatPongDemo.mp4?rlkey=skj7ahit0n518807r1zev9r8o&dl=0">here</a>.
   </video>
 </div>
 
