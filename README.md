@@ -9,7 +9,7 @@ The code is not provided as it's the rule of 42Seoul.
 You can access the website [here](https://cat-pong.com).
 
 <div align="center">
-  <video src="https://dl.dropboxusercontent.com/scl/fi/hqb4n7u13gp8scrpk2c5r/CatPongDemo.mp4?rlkey=skj7ahit0n518807r1zev9r8o&dl=0">
+  <video src="https://github.com/whazami/catpong/assets/44798789/a6280602-d39c-494f-b27d-b5e8534611bc">
     Your browser does not support videos but you can watch the CatPong's Demo <a href="https://dl.dropboxusercontent.com/scl/fi/hqb4n7u13gp8scrpk2c5r/CatPongDemo.mp4?rlkey=skj7ahit0n518807r1zev9r8o&dl=0">here</a>.
   </video>
 </div>
