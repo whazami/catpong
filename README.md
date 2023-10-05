@@ -54,4 +54,4 @@ Note that you can test the endpoints of the API [here](https://api.cat-pong.com)
 
 ## Troubleshooting
 
-Currently, the image upload functionality is not working on the [deployed](https://cat-pong.com) version due to the absence of a cloud storage service, like Google Cloud Storage or Amazon S3. If you find something else not working, don't hesitate to open an issue.
+Note that the client secret for the 42 API changes on a monthly basis. If the .env file in the deployed version of the project is not updated to reflect this, the 'Login with 42' feature may not work.
